@@ -1,0 +1,65 @@
+* {
+    margin: 0rem 0rem;
+    padding: 0;
+    box-sizing: border-box;
+}
+main
+ {
+    font-family: 'Kanit', sans-serif;
+    height: 540px;
+    width: 360px;
+    background: tomato;
+    overflow: hidden;
+    border-radius: 50px;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    margin: auto;
+}
+
+main img
+{
+    height: 220px;
+}
+
+.up 
+{
+    color: aliceblue;
+    text-align: center;
+    justify-content: center;
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.2);
+}
+.up input
+{
+    height: 40px;
+    width: 150px;
+    border-radius: 50px;
+    text-align: center;
+    margin: auto;
+    padding: 1torem;
+}
+
+.center 
+{
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    border-radius: 2px;
+}
+.center button
+{
+    height: 30px;
+    width: 150px;
+    border-radius: 50px;
+}
+footer 
+{
+    width: 150px;
+    color: aliceblue;
+    background: teal;
+    border-radius: 50px;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    margin: auto;
+}
